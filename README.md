@@ -6,16 +6,20 @@ JS-Review-App is a web-based application built with HTML, CSS, and JavaScript th
 
 * Clean Up Comments and Temporary Code: Conduct housekeeping by removing rough comments and unnecessary temporary code for improved code readability and maintenance.
 
-##Features
-*Dynamic Review Display: The app utilizes JavaScript to respond to buttons, cycling through the user data array, and displaying reviews in the HTML container.
-*CSS Animations: Enjoy smooth CSS animations when using the next and previous buttons for a delightful user experience.
+## Features
 
-##Preview
+* Dynamic Review Display: The app utilizes JavaScript to respond to buttons, cycling through the user data array, and displaying reviews in the HTML container.
+  
+* CSS Animations: Enjoy smooth CSS animations when using the next and previous buttons for a delightful user experience.
+
+## Preview
+
 To see the JS-Review-App in action, you can check it out on CodePen.[CodePen](https://codepen.io/j-pruitt/pen/vYzpqZz)
 
 Feel free to explore, leave reviews, and contribute to the project! Any suggestions and improvements are highly appreciated.
 
-##Local Reviews Data
+## Local Reviews Data
+
 The app features a collection of local reviews with the following structure:
 
 '''
