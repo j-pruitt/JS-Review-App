@@ -1,6 +1,7 @@
 JS-Review-App is a web-based application built with HTML, CSS, and JavaScript that allows users to display and cycle through reviews. The app utilizes a JavaScript array filled with mock user data to showcase reviews in an HTML container.
 
-##To-Do List
+## To-Do List
+
 *Add Media Queries for Responsiveness: Currently, the app looks best in desktop view, and media queries need to be implemented to enhance responsiveness on different devices.
 *Clean Up Comments and Temporary Code: Conduct housekeeping by removing rough comments and unnecessary temporary code for improved code readability and maintenance.
 
