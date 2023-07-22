@@ -14,7 +14,7 @@ JS-Review-App is a web-based application built with HTML, CSS, and JavaScript th
 
 ## Preview
 
-To see the JS-Review-App in action, you can check it out on CodePen.[CodePen](https://codepen.io/j-pruitt/pen/vYzpqZz)
+To see the JS-Review-App in action, you can check it out on [CodePen](https://codepen.io/j-pruitt/pen/vYzpqZz).
 
 Feel free to explore, leave reviews, and contribute to the project! Any suggestions and improvements are highly appreciated.
 
@@ -23,6 +23,7 @@ Feel free to explore, leave reviews, and contribute to the project! Any suggesti
 The app features a collection of local reviews with the following structure:
 
 '''
+
 const reviews = [
     {
         id: 1,
@@ -33,6 +34,7 @@ const reviews = [
     },
     // Add more reviews as needed...
 ];
+
 '''
 
 
