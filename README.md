@@ -22,7 +22,7 @@ Feel free to explore, leave reviews, and contribute to the project! Any suggesti
 
 The app features a collection of local reviews with the following structure:
 
-'''
+```
 
 const reviews = [
     {
@@ -35,7 +35,7 @@ const reviews = [
     // Add more reviews as needed...
 ];
 
-'''
+```
 
 
 JS-Review-App
