@@ -43,9 +43,9 @@ const reviews = [
 
 ## How to Use
 
-Open **index.html** in your preferred web browser.
+1. Open **index.html** in your preferred web browser.
 
-Use the "Next" and "Previous" buttons to cycle through different reviews.
+2. Use the "Next" and "Previous" buttons to cycle through different reviews.
 
 ## Let's Connect
 
